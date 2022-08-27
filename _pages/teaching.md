@@ -12,7 +12,7 @@ nav_order: 5
 Organize your courses by years, topics, or universities, however you like! -->
 
 <!-- <article> -->
-<div class="teaching">
+<div class="cv">
   {% for entry in site.data.teaching %}
     <div class="card mt-3 p-3">
       <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>

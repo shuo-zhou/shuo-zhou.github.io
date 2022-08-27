@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sheffield.ac.uk/dcs'>Department of Computer Science, University of Sheffield</a>.
+subtitle: Academic Fellow in Machine Learning, @<a href='https://www.sheffield.ac.uk/dcs'>Department of Computer Science, University of Sheffield</a>.
 
 profile:
   align: right

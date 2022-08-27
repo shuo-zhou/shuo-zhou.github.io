@@ -8,6 +8,8 @@ github_repos:
   - kundaMwiza/fMRI-site-adaptation
   - sz144/sider
   - sz144/sz144.github.io
+  - pykale/transparentML 
+  - haipinglu/ScalableML 
   - tensorly/tensorly
   # - twbs/bootstrap
   # - jekyll/jekyll

@@ -1,0 +1,8 @@
+- title: Courses
+  type: nested_list
+  contents:
+    - title: <a href="http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/msc/com6012.html">COM 6012 Scalable Machine Learning</a>.
+      # items: 
+      #   - Description 1.
+      #   - Description 2.
+    - title: An Introduction to Transparent Machine Learning .

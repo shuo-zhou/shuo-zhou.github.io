@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 subtitle: Academic Fellow in Machine Learning, @<a href='https://www.sheffield.ac.uk/dcs'>The University of Sheffield</a>.
 

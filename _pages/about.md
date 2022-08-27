@@ -5,13 +5,13 @@ permalink: /
 subtitle: Academic Fellow in Machine Learning, @<a href='https://www.sheffield.ac.uk/dcs'>The University of Sheffield</a>.
 
 profile:
-  align: right
+  align: left
   image: profile.png
   image_circular: True # crops the image to make it circular
   address: >
     <p>134, Regent Court</p>
-    <p>211 Portobello, S1 4DP</p>
-    <p>Sheffield, UK</p>
+    <p>211 Portobello</p>
+    <p>Sheffield, S1 4DP</p>
 
 # news: true  # includes a list of news items
 news: False
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am an academic fellow in machine learning at the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning), [Department of Computer Science, University of Sheffield](https://www.sheffield.ac.uk/dcs/indexdcs).
 
-My current research focus is on developing interpretable machine learning methods and tools for medical image/neuroimaging data analysis. I am a co-creator and core developer of open-source library [PyKale](https://github.com/pykale/pykale), which provides a range of accessible multi-modal and transfer learning algorithms.
+My current research focuses on developing interpretable machine learning methods and tools for medical image analysis. I am a co-creator and core developer of open-source library [PyKale](https://github.com/pykale/pykale), which provides a range of accessible multi-modal and transfer learning algorithms.
 
 I serve as a reviewer of
 [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989). I also served as a PC member of [IJCAI 2022](https://ijcai-22.org/pc-members/). I am an awardee of [Post-Doctoral Enrichment Awards (PDEA) 2022](https://www.turing.ac.uk/post-doctoral-enrichment-awards-pdea), offered by [the Alan Turing Institute](https://www.turing.ac.uk/post-doctoral-enrichment-awards-pdea).

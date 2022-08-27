@@ -5,6 +5,10 @@ github_users:
 
 github_repos:
   - pykale/pykale
+  - kundaMwiza/fMRI-site-adaptation
+  - sz144/sider
+  - sz144/sz144.github.io
+  - tensorly/tensorly
   # - twbs/bootstrap
   # - jekyll/jekyll
   # - jquery/jquery

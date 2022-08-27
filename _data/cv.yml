@@ -8,12 +8,24 @@
     - name: Languages
       value: Chinese, English
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Interpretable Machine Learning.
+      # items: 
+      #   - Description 1.
+      #   - Description 2.
+    - title: Medical Image Analysis.
+      # items:
+      #   - Description 1.
+      #   - Description 2.
+
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: University of Sheffield, Sheffield, UK
-      year: 2018 - 2022
+      year: 03.2018 - 02.2022
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -23,7 +35,7 @@
       #       - Sub-description 2.
     - title: MSc Advanced Computer Science
       institution: University of Sheffield, Sheffield, UK
-      year: 2016 - 2017
+      year: 09.2016 - 09.2017
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -79,17 +91,6 @@
     #   items: 
     #     - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Interpretable Machine Learning.
-      # items: 
-      #   - Description 1.
-      #   - Description 2.
-    - title: Medical Image Analysis.
-      # items:
-      #   - Description 1.
-      #   - Description 2.
 
 # - title: Other Interests
 #   type: list

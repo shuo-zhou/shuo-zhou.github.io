@@ -93,9 +93,9 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 3.5rem;
-  margin-right: 3.5rem;
-  max-width: 80%;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  max-width: 100%;
   text-align: left;
   .address {
     margin-bottom: 5px;
@@ -115,6 +115,19 @@ blockquote {
     //   max-height: 150px;
     //   max-width: 150px;
     // }
+    .address {
+      p { display: block; }
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .profile {
+    max-width: 80%;
+    min-width: 75px;
+    margin-left: 3.3rem;
+    margin-right: 3.3rem;
+    text-align: center;
     .address {
       p { display: block; }
     }

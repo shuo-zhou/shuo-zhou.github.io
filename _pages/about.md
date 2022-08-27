@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.sheffield.ac.uk/dcs'>Department of Computer Science, University of Sheffield</a>.
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>134, Regent Court</p>

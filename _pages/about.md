@@ -22,7 +22,7 @@ I am an academic fellow in machine learning at the [Machine Learning Research Gr
 
 My current research focuses on developing interpretable machine learning methods and tools for medical image analysis. I am a co-creator and core developer of open-source library [PyKale](https://github.com/pykale/pykale), which provides a range of accessible multi-modal and transfer learning algorithms.
 
-I serve as a reviewer of
+I serve as a reviewer of [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) and
 [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989). I also served as a PC member of [IJCAI 2022](https://ijcai-22.org/pc-members/). I am an awardee of [Post-Doctoral Enrichment Awards (PDEA) 2022](https://www.turing.ac.uk/post-doctoral-enrichment-awards-pdea), offered by [the Alan Turing Institute](https://www.turing.ac.uk/post-doctoral-enrichment-awards-pdea).
 
 <!-- 

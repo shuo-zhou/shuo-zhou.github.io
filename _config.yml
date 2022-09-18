@@ -68,11 +68,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: sz144 # your GitHub user name
+github_username: shuo-zhou
 # gitlab_username: # your GitLab user name
 # twitter_username: # your Twitter handle
 linkedin_username: "https://www.linkedin.com/in/shuo-zhou-02754763/"  # your LinkedIn user name
-scholar_userid: "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=b90lZb4AAAAJ"  # your Google Scholar ID
+scholar_userid: "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=b90lZb4AAAAJ"  # your Google Scholar ID# your Google Scholar ID
+# semanticscholar_id: # your Semantic Scholar ID
 orcid_id: "http://orcid.org/0000-0002-8069-2814"  # your ORCID ID
 # medium_username: # your Medium username
 # quora_username: # your Quora username
@@ -83,7 +84,15 @@ research_gate_profile: "https://www.researchgate.net/profile/Shuo-Zhou-3"  # you
 # keybase_username: # your keybase user name
 # wikidata_id: # your wikidata id
 # dblp_url: # your DBLP profile url
-# stackoverflow_id: #your stackoverflow id
+# stackoverflow_id: # your stackoverflow id
+# kaggle_id: # your kaggle id
+# lastfm_id: # your lastfm id
+# spotify_id: # your spotify id
+# pinterest_id: # your pinterest id
+# unsplash_id: # your unsplash id
+# instagram_id: # your instagram id
+# facebook_id: # your facebook id
+# discord_id: # your discord id (18-digit unique numerical identifier)
 
 # contact_note: >
   # You can even add a little note about which of these is the best way to reach you.

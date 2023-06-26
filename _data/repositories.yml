@@ -1,13 +1,13 @@
 github_users:
-  - sz144
+  - shuo-zhou
   # - pykale
   # - alshedivat
 
 github_repos:
   - pykale/pykale
   - kundaMwiza/fMRI-site-adaptation
-  - sz144/sider
-  - sz144/sz144.github.io
+  - shuo-zhou/sider
+  - shuo-zhou/shuo-zhou.github.io
   - pykale/transparentML 
   - haipinglu/ScalableML 
   - tensorly/tensorly

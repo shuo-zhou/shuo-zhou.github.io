@@ -8,7 +8,7 @@
     - name: Email
       value: <a href="mailto:shuo.zhou@sheffield.ac.uk">shuo.zhou@sheffield.ac.uk</a>
     - name: Research Interests
-      value: Interpretable Machine Learning, Medical Image Analysis
+      value: Interpretable Machine Learning, AI for Healthcare, AI Engineering/Auto Machine Learning
     - name: Languages
       value: Chinese, English
 
@@ -29,7 +29,7 @@
   contents:
     - title: PhD Computer Science (Machine Learning)
       institution: University of Sheffield, Sheffield, UK
-      year: 03.2018 - 02.2022
+      year: 2018 - 2022
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -49,7 +49,7 @@
   contents:
     - title: Academic Fellow in Machine Learning
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 07.2022 - now
+      year: 2022 - now
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -59,7 +59,7 @@
       #       - Sub-description 2.
     - title: Research Assistant (part-time)
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 09.2021 - 06.2022
+      year: 2021 - 2022
       description:
         - Machine learning for improving prognostic and treatment response assessment on cardiac MRI data.
       #   - Description 2.
@@ -72,7 +72,7 @@
 
     - title: Research Software Engineer (part-time)
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 04.2020 - 06.2021
+      year: 2020 - 2021
       description:
         - Machine learning software development for cardiac MRI data analysis.
 
@@ -87,9 +87,12 @@
       year: 2020-now
       description: A Python library for knowledge-aware machine learning from multiple sources, particularly from multiple modalities for multimodal learning and from multiple domains for transfer learning.
 
-- title: Awards
+- title: Funding and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - <a href="https://www.ukri.org/news/13-million-for-22-ai-for-health-research-projects/">A Novel Artificial Intelligence Powered Neuroimaging Biomarker for Chronic Pain</a>, <a href="https://www.ukri.org/councils/epsrc/">EPSRC</a>
     - year: 2022
       items: 
         - <a href="https://www.turing.ac.uk/post-doctoral-enrichment-awards-pdea">Post-Doctoral Enrichment Awards (PDEA) 2022</a>, <a href="https://www.turing.ac.uk/">the Alan Turing Institute</a>

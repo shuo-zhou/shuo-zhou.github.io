@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Shuo ZHou",
+    "label": "",
+    "image": "",
+    "email": "shuo.zhou@sheffield.ac.uk",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "Regent Court, 211 Portobello",
+      "postalCode": "S1 4DP",
+      "city": "Sheffield",
+      "countryCode": "UK",
+      "region": "South Yorkshire"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Department of Computer Science, University of Sheffield, Sheffield, UK",
+      "position": "Academic Fellow in Machine Learning",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Department of Computer Science, University of Sheffield, Sheffield, UK",
+      "position": "Research Assistant in Machine Learning for Medical Image Analysis", 
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Department of Computer Science, University of Sheffield, Sheffield, UK",
+      "position": "Research Software Engineer in Machine Learning for Medical Image Analysis", 
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Sheffield, Sheffield, UK",
+      "url": "https://www.sheffield.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "A Novel Artificial Intelligence Powered Neuroimaging Biomarker for Chronic Pain",
+      "date": "2023",
+      "awarder": "EPSRC",
+      "summary": ""
+    },
+    {
+      "title": "Post-Doctoral Enrichment Awards (PDEA)",
+      "date": "2022",
+      "awarder": "The Alan Turing Institute",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

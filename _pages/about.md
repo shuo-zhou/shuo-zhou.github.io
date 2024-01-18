@@ -24,6 +24,8 @@ My current research focuses on developing interpretable machine learning methods
 
 I serve as a reviewer of [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [IEEE Transactions on Cognitive and Developmental Systems (TCDS)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274989), and [Cerebral Cortex](https://academic.oup.com/cercor). I also served as a PC member of IJCAI [2022](https://ijcai-22.org/pc-members/), [2023](https://ijcai-23.org/pc-member-list/). I am one of the organisers of the [Meta-Learning for Multimodal Data](https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data) interest group and awardee of the [Post-Doctoral Enrichment Awards (PDEA) 2022 programme](https://www.turing.ac.uk/post-doctoral-enrichment-awards-pdea) of [the Alan Turing Institute](https://www.turing.ac.uk).
 
+I currently have one open [PhD position](https://www.findaphd.com/phds/project/developing-foundation-models-for-multimodal-neuroimaging-data/?p168127) available. If you are interested, please contact me by email with: 1) your CV; 2) one representative piece of your writing (e.g., paper, dissertation, technical report); 3) code samples via an attachment or providing your GitHub page link; and 4) a description of a collaboration experience in your Application Statement.
+
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

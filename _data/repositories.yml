@@ -3,13 +3,15 @@ github_users:
   # - pykale
   # - alshedivat
 
+repo_description_lines_max: 2
+
 github_repos:
   - pykale/pykale
   - kundaMwiza/fMRI-site-adaptation
   - shuo-zhou/sider
   - shuo-zhou/shuo-zhou.github.io
   - pykale/transparentML 
-  - haipinglu/ScalableML 
+  - COM6012/ScalableML 
   - tensorly/tensorly
   # - twbs/bootstrap
   # - jekyll/jekyll

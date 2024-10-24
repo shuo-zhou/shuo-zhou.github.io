@@ -18,13 +18,13 @@ Organize your courses by years, topics, or universities, however you like! -->
       <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
       <div>
         {% if entry.type == "list" %}
-        {% include cv/list.html %}
+        {% include cv/list.liquid %}
         {% elsif entry.type == "map" %}
-        {% include cv/map.html %}
+        {% include cv/map.liquid %}
         {% elsif entry.type == "nested_list" %}
-        {% include cv/nested_list.html %}
+        {% include cv/nested_list.liquid %}
         {% elsif entry.type == "time_table" %}
-        {% include cv/time_table.html %}
+        {% include cv/time_table.liquid %}
         {% else %}
         {{ entry.contents }}
         {% endif %}
@@ -37,7 +37,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 {% if site.data.teaching_repo.github_repos %}
 <div class="teaching d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.teaching_repo.github_repos %}
-    {% include repository/repo.html repository=repo %}
+    {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
 {% endif %}

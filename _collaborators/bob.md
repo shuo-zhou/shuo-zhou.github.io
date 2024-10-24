@@ -5,5 +5,5 @@ description: Senior Research Software Engineer at the Department of Computer Sci
 img: assets/img/bob.jpg
 importance: 6
 redirect: https://sites.google.com/view/robert-turner/home
-category: Internal
+category: External
 ---

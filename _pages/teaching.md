@@ -35,6 +35,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 <!-- </article> -->
 
 {% if site.data.teaching_repo.github_repos %}
+
 <div class="teaching d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.teaching_repo.github_repos %}
     {% include repository/repo.liquid repository=repo %}

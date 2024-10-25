@@ -30,31 +30,25 @@
       "startDate": "2022",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     },
     {
       "name": "Department of Computer Science, University of Sheffield, Sheffield, UK",
-      "position": "Research Assistant in Machine Learning for Medical Image Analysis", 
+      "position": "Research Assistant in Machine Learning for Medical Image Analysis",
       "url": "",
       "startDate": "2021",
       "endDate": "2022",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     },
     {
       "name": "Department of Computer Science, University of Sheffield, Sheffield, UK",
-      "position": "Research Software Engineer in Machine Learning for Medical Image Analysis", 
+      "position": "Research Software Engineer in Machine Learning for Medical Image Analysis",
       "url": "",
       "startDate": "2020",
       "endDate": "2021",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     }
   ],
   "education": [
@@ -66,9 +60,7 @@
       "startDate": "2018",
       "endDate": "2022",
       "score": "",
-      "courses": [
-        ""
-      ]
+      "courses": [""]
     }
   ],
   "awards": [

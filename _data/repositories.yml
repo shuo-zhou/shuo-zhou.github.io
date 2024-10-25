@@ -1,7 +1,5 @@
 github_users:
   - shuo-zhou
-  # - pykale
-  # - alshedivat
 
 repo_description_lines_max: 2
 
@@ -10,12 +8,6 @@ github_repos:
   - kundaMwiza/fMRI-site-adaptation
   - shuo-zhou/sider
   - shuo-zhou/shuo-zhou.github.io
-  - pykale/transparentML 
-  - COM6012/ScalableML 
+  - pykale/transparentML
+  - COM6012/ScalableML
   - tensorly/tensorly
-  # - twbs/bootstrap
-  # - jekyll/jekyll
-  # - jquery/jquery
-  # - FortAwesome/Font-Awesome
-  # - jpswalsh/academicons
-  # - mathjax/MathJax

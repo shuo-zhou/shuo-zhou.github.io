@@ -5,5 +5,5 @@ description: Senior Clinical Lecturer at Clinical Medicine, School of Medicine a
 img: assets/img/dinesh.jpg
 importance: 7
 redirect: https://www.sheffield.ac.uk/smph/people/clinical-medicine/dinesh-selvarajah
-category: Internal
+category: Internal@Sheffield
 ---

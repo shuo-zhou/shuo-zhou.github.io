@@ -4,8 +4,8 @@ title: Collaborators
 permalink: /collaborators/
 # description: A growing collection of your cool projects.
 nav: True
-nav_order: 2
-display_categories: [External, Internal]
+nav_order: 3
+display_categories: [External, Internal@Sheffield]
 horizontal: False
 ---
 

@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an academic fellow in machine learning at the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning), [School of Computer Science](https://www.sheffield.ac.uk/cs), and deputy head of AI research engineering at [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), [University of Sheffield](https://www.sheffield.ac.uk/).
+I am a lecturer in machine learning at the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning), [School of Computer Science](https://www.sheffield.ac.uk/cs), and deputy head of AI research engineering at [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), [University of Sheffield](https://www.sheffield.ac.uk/).
 
 My current research focuses on developing interpretable machine learning methods and tools for healthcare. I am a co-creator and core developer of open-source library [PyKale](https://github.com/pykale/pykale), which provides a range of accessible multimodal and transfer learning algorithms.
 

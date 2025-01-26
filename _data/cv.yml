@@ -47,9 +47,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Lecturer in Machine Learning
+      institution: School of Computer Science, University of Sheffield, Sheffield, UK
+      year: 2025 - now
     - title: Academic Fellow in Machine Learning
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 2022 - now
+      year: 07.2022 - 2025
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -59,7 +62,7 @@
       #       - Sub-description 2.
     - title: Research Assistant (part-time)
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 2021 - 2022
+      year: 09.2021 - 06.2022
       description:
         - Machine learning for improving prognostic and treatment response assessment on cardiac MRI data.
       #   - Description 2.
@@ -72,7 +75,7 @@
 
     - title: Research Software Engineer (part-time)
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 2020 - 2021
+      year: 04.2020 - 06.2021
       description:
         - Machine learning software development for cardiac MRI data analysis.
 

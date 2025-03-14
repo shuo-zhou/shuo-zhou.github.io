@@ -13,9 +13,18 @@ profile:
     <p>211 Portobello</p>
     <p>Sheffield, S1 4DP</p>
 
-news: False # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a lecturer in machine learning at the [Machine Learning Research Group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning), [School of Computer Science](https://www.sheffield.ac.uk/cs), and deputy head of AI research engineering at [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), [University of Sheffield](https://www.sheffield.ac.uk/).

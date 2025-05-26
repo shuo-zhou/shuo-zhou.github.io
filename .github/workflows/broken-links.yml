@@ -31,6 +31,7 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
+      - "!._pages/about.md"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
       - "!.github/workflows/deploy-image.yml"

@@ -2,8 +2,8 @@
 layout: page
 title: Robert Turner
 description: Software Engineer at University of Oxford
-img: https://media.licdn.com/dms/image/v2/C4D03AQHXu2oOsDYn7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1621599896628?e=1743638400&v=beta&t=1gxtu3wkPtREHbhV-Mq2Sf3E2d0TdzZJvVuG1xJ91oQ
+img: https://www.expmedndm.ox.ac.uk/team/robert-turner/@@haiku.profiles.portrait/b50cad30a4d54a939590fa83c162b544/@@images/image/w1140?afbb6c9f-1b3b-462f-8b94-14dacbda7d8d
 importance: 3
-redirect: https://sites.google.com/view/robert-turner/home
+redirect: https://www.expmedndm.ox.ac.uk/team/robert-turner
 category: External
 ---

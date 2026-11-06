@@ -1,18 +1,8 @@
 cv:
   name: Shuo ZHou
-  label: Lecturer in Machine Learning
+  headline: Lecturer in Machine Learning
   email: shuo.zhou@sheffield.ac.uk
   location: Sheffield, UK
-  image: ""
-  summary: Lecturer in Machine Learning at the University of Sheffield. My research focuses on interpretable machine learning, AI for healthcare, and AI engineering/Auto machine learning.
-
-  address:
-    street: 211 Portobello St
-    city: Sheffield
-    region: South Yorkshire
-    postalCode: S1 4DP
-    countryCode: UK
-
   sections:
     Education:
       - institution: University of Sheffield, Sheffield, UK
@@ -34,8 +24,8 @@ cv:
         position: Lecturer in Machine Learning
         location: Sheffield, UK
         start_date: 2025
-        end_date: now
- 
+        end_date: present
+
       - company: University of Sheffield, Sheffield, UK
         position: Academic Fellow in Machine Learning
         location: Sheffield, UK
